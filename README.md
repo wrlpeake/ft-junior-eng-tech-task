@@ -2,7 +2,7 @@
 
 When provided the task to complete for the Junior Engineer application, my first task was to split up the project into smaller parts:
 
-- Tasks
+Tasks:
 
 1. Initial basic website (html, css, script.js) including relevant text only
 2. Access API via Postman
