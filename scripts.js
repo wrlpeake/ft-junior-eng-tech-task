@@ -21,7 +21,7 @@ var data = JSON.stringify({"queryString":"title:\"Brexit\"","queryContext":{"cur
 var config = {
   method: 'post',
   // Hide this API key with an enviroment variable once functioning
-  url: 'https://api.ft.com/content/search/v1?apiKey=59cbaf20e3e06d3565778e7bd8d728bfa9694baaad0dbe39fa813c64',
+  url: '//Insert Key Here',
   headers: { 
     'Content-Type': 'application/json'
   },
